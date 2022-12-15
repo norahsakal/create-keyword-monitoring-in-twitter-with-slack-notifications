@@ -14,6 +14,8 @@ Are you an indie hacker looking for an easy way to promote your latest project? 
 
 **3. Get Slack webhook URL**
 
+**4. Write monitoring script**
+
 
 ---
 
