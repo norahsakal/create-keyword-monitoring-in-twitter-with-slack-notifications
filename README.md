@@ -1,4 +1,4 @@
-# How to create a Twitter keyword monitor with Python and Slack notifications
+# How to create Twitter keyword monitoring with Python and Slack notifications
 
 ![Cover image](https://d2pwmb8xsybju4.cloudfront.net/posts/create-keyword-monitoring-in-twitter-with-slack-notifications/linkedin_card.png "Cover image")
 
